@@ -49,6 +49,8 @@ Step 4: Connect Local Repository to GitHub
    ```
 3. When prompted for a password, use your PAT instead of your GitHub password.
 
+# this change was made on GITHUB
+
 
 
 
