@@ -36,4 +36,19 @@ Step 3: Generate a Personal Access Token (PAT)
 6. Click "Generate token".
 7. Copy the token immediately and store it securely. 
 
+# THIS CHANGE WAS MADE ON LOCAL CLIENT 
+#
+Step 4: Connect Local Repository to GitHub
+1. In your terminal, add the GitHub repository as a remote:
+   ```bash
+   git remote add origin https://github.com/username/repository.git
+   ```
+2. Push your code to GitHub using your PAT:
+   ```bash
+   git push -u origin main
+   ```
+3. When prompted for a password, use your PAT instead of your GitHub password.
+
+
+
 
